@@ -5,4 +5,4 @@
  I have tested several times different types of visualization by using ggplot2, on my goal to animate them and compare different regions and ages or gender.
 
 
-![Main dynamic GIF result](animated_vaccionation_dose.gif)
+![Main dynamic GIF result](animated_vaccination_dose.gif)
